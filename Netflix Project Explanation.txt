@@ -1,0 +1,10 @@
+Netflix Dashboard Project Explanation:
+
+. In this project, I downloaded and uploaded the dataset on the Power Bi Desktop tool. Secondly, I figured out if any duplicate data was present and cleaned it using Data Cleaning.
+. For the next step I have figured out all the columns and rows and came to know what are the titles, tvshows, movies, ratings etc. and     what can I perform with that. 
+. Firstly, I grouped that how many "Tvshows"(30%) and "Movies"(69%) are there and concluded that movies are more than Tvshows.
+. Secondly, I grouped that how many "Genres" with the title are there found that there are Dramas, Documentaries and much more.
+. For the next step, I thought of how many "Ratings"will be there according to the title and found that "TV-MA" has more than 6millon       ratings.
+. And now I figured out how many "top 10 countires" are there by Movies and Tvshows and noticed that "United States" ranked first and     next "India" and so on and the least was the "Spain".
+. Next coming to the tvshows and movies by the release year we can see that least release year was "1925" and the best release year was     "2017".
+. Lastly, coming to know all the "Total titles"(8782), "Total Genres"(514), "Total Rating"(15), "Start date"(1925) "End date"(2021),    "Locations"(87) and ended up noticing all these things.
